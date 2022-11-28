@@ -161,7 +161,7 @@ const config = {
       ],
       navbar: {
         logo: {
-          alt: 'Umut YILDIRIM Logo',
+          alt: 'Cho Logo',
           src: `/img/logo-light.png`,
           srcDark: `/img/logo-dark.png`,
           href: '/',
@@ -266,11 +266,11 @@ const config = {
               },
               {
                 label: 'My Resume',
-                href: 'https://umutyildirim.com/download/resume.pdf',
+                href: 'https://choiscafe-portfolio.web.app/download/resume.pdf',
               },
               {
                 label: 'My CV',
-                href: 'https://umutyildirim.com/download/cv.pdf',
+                href: 'https://choiscafe-portfolio.web.app/download/cv.pdf',
               },
             ],
           },
@@ -283,11 +283,7 @@ const config = {
               },
               {
                 label: 'LinkedIn',
-                href: 'https://www.linkedin.com/in/umuthopeyildirim/',
-              },
-              {
-                label: 'Instagram',
-                href: 'https://www.instagram.com/umuthopeyildirim/',
+                href: 'https://www.linkedin.com/in/chohye-han/',
               },
             ],
           },
