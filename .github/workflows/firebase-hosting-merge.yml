@@ -28,6 +28,6 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: '${{ secrets.GITHUB_TOKEN }}'
-          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_PORTFOLIO_UMUT_YILDIRIM }}'
+          firebaseServiceAccount: '${{ secrets.FIREBASE_SERVICE_ACCOUNT_CHOISCAFE_PORTFOLIO }}'
           channelId: live
-          projectId: portfolio-umut-yildirim
+          projectId: choiscafe-portfolio
